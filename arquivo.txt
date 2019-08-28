@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Maçã
 Banana
+=======
+Maça
+Uva
+>>>>>>> efce989f215885ba0d5338f9ca7860a9a14e9ee4
 Pera
